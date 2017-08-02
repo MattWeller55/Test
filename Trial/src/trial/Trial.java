@@ -22,5 +22,6 @@ public class Trial {
     Trial(){
         System.out.println("HeLLo WoRLD");
         System.out.println("hEllO bAck");
+        System.out.println("GooDBYe");
     }
 }
